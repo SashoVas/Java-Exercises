@@ -2,8 +2,6 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.idea
-airbnb_simple_oop_clone.iml
 
 ### Eclipse ###
 .apt_generated
